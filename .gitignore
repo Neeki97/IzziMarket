@@ -1,0 +1,7 @@
+# Окружение
+.env
+venv/
+env/
+
+# IDE
+.idea/
